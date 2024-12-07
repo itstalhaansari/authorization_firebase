@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704661841771",
+    "project_id": "authentication-dc3bf",
+    "storage_bucket": "authentication-dc3bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704661841771:android:88be84458eabe368c30e2e",
+        "android_client_info": {
+          "package_name": "com.example.myappp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMSAxETKnhaRWcOVHxDezO2p737R8ZTGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
