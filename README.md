@@ -1,6 +1,6 @@
 # myappp
 
-A new Flutter project.
+A app with firebase backend for creating and loging in your account
 
 ## Getting Started
 
